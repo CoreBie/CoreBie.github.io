@@ -4,4 +4,4 @@ jQuery(document).ready(function() {
   console.log('callback - particles.js config loaded');
  });
  
- );
+});
