@@ -30,7 +30,9 @@ body {
 }
 
 #logo01 {
-	
+	position: absolute;
+	top: 400;
+	left: 400
 	
 }
 
