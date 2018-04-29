@@ -20,15 +20,15 @@ body {
 }
 
 .vk_groups {
-	position: absolute;
-	top: 200;
-	left: 400
+	position: absolute !important;
+	top: 200 !important;
+	left: 400 !important
 }
 
 #vk_groups {
-	position: absolute;
-	top: 200;
-	left: 400
+	position: absolute !important;
+	top: 200 !important;
+	left: 400 !important
 }
 
 #particles-js
