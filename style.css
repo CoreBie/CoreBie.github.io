@@ -17,6 +17,12 @@ body {
   z-index: -9999;
 }
 
+.vk_groups {
+	position: absolute;
+	top: 200;
+	left: 400
+}
+
 #vk_groups {
 	position: absolute;
 	top: 200;
