@@ -19,12 +19,6 @@ body {
   z-index: -9999;
 }
 
-.vk_groups {
-	position: absolute !important;
-	top: 200 !important;
-	left: 400 !important
-}
-
 #vk_groups {
 	position: absolute !important;
 	top: 200 !important;
