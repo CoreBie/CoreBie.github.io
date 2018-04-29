@@ -21,11 +21,8 @@ body {
 
 #vk_groups {
 	position: absolute !important;
-	top: 200 !important;
-	left: 400 !important;
-	float: left;
-	text-align: center;
-	margin-bottom: 20px;
+	top: 50% !important;
+	left: 50% !important
 }
 
 #particles-js
